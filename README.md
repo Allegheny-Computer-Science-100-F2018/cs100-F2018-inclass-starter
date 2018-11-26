@@ -48,6 +48,7 @@ Here are the commands that are related to each of the in-class programming proje
 - `gradle -q --console plain runCompareInputValues` to run the `inclass.CompareInputValues` program
 - `gradle -q --console plain runComputeAverage` to run the `inclass.ComputeAverage` program
 - `gradle -q --console plain runComputeMultiples` to run the `inclass.ComputeMultiples` program
+- `gradle runBasicArrayComputations` to run the `inclass.BasicArrayComputations` program
 
 ## Output
 
@@ -111,6 +112,15 @@ submission must pass the following checks:
 - inclass/writing/coveros.md:
   - Passes all of the Markdown and prose linting checks
   - Contains exactly one paragraph of at least 100 words
+
+- inclass/BasicArrayComputations.java:
+  - Features at least forty-four single-line comments
+  - Features at least three multiple-line comments
+  - Contains exactly one use of a `print(` statement
+  - Contains at least 44 non-blank lines of source code
+  - Does not contain any markers for incomplete tasks
+  - Contains the output from running the program as a comment
+  - Contains answers to two technical questions as a comment
 
 ## Updates
 
