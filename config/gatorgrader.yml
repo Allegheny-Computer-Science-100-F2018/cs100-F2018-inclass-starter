@@ -63,3 +63,11 @@ writing/coveros.md:
     proselint
     --paragraphs 1 --exact
     --words 100
+src/main:
+    java:
+        inclass/BasicArrayComputations.java:
+            --count 44
+            --single 15 --language Java --exact
+            --multi 3 --language Java --exact
+            --fragment "print(" --count 1 --exact
+            --fragment "TODO" --count 0 --exact
